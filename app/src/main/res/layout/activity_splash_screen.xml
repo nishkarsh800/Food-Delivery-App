@@ -37,7 +37,7 @@
         android:layout_below="@id/lottie_anim"
         android:layout_marginStart="120dp"
         android:layout_marginTop="45dp"
-        android:text="You Order, We Serve !!"
+        android:text="You Order, We Deliver !!"
         android:fontFamily="@font/yeonsung_regular"
         android:textSize="15sp"
         android:textStyle="bold">

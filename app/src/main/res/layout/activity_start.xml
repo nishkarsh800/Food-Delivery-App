@@ -33,12 +33,12 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="You Order, We Serve !!"
-        android:fontFamily="@font/yeonsung_regular"
         android:layout_below="@id/button_next"
-        android:textSize="15sp"
         android:layout_centerInParent="true"
-        android:layout_marginTop="40dp">
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/yeonsung_regular"
+        android:text="You Order, We Deliver !!"
+        android:textSize="15sp">
 
     </TextView>
 
